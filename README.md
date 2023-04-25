@@ -1,7 +1,12 @@
 # odin-recipes
-In this project I'm asked to create an HTML website that consists of a main index page which will included a few links to different types of recipes
+Odin Recipes Website 
 
-This project is going to demonaste my basic knowledge with HTML. It will show my skills on how to properly code a basic boilerplate for HTML. Also show the types of elements I used to inlcude a heading, images, paragraphs, change the appearance of the text to bold or italic and add direct links to navigate to different pages in the website or a different website
+-Created a recipe website to showcase my basic understading with HTML.
 
+Thoughts:
 
-This project will also test my knowledge with GitHub on how to properly create a repository, transfer the repository to my local machine where then I will clone it on the Terminal. So that later I can start building the webiste on VSC (Visual Studio Code). This project will also show the commit messages I wrote in between building the website when I came across and error or made a change 
+-This was the first assignment introduced in The Odin Project's foundations course. As a beginner in coding, this project challage me to put into practice my HTML skills. I learned how to properly code the HTML boilerplate, create directories and files, nagivate the terminal and how to use a code editor. In addition, I put into use certain elements to change the appearance of the text and create headers, paragraphs, images, and links. Futhermore, I included ordered and unorder lists for the recipes shown in the website. On the other hand, I organized my code to make it look as clean and possible to understand for the viewer.
+
+Languages Used:
+
+-HTML
