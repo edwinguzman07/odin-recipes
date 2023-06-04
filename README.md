@@ -8,3 +8,4 @@ This was the first assignment introduced in The Odin Project's foundations cours
 <h2>Languages Used:</h2>
 
 <ul><li>HTML</ul></li>
+<ul><li>CSS</ul></li>
