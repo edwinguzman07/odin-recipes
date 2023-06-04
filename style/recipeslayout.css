@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #DADAD9;
+    height: 100%;
+    width: 100%;
+}
+
+/* INDEX FORMAT STYLE */
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #DADAD9;
+    padding: 50px;
+   
+}
+
+a {
+    color: #DADAD9;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 80px;
+    position: relative;
+    left: 50px;
+    top: 25px;
+   
+}
+
+.bottominfo {
+    background-color: #c2c2c2;
+    padding: 50px;
+    font-size: 1.0em;
+  
+}
+
+.toprightinfo {
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    position: absolute;
+    font-size: 1.5em;
+    top: 250px;
+    left: 500px;
+    right: 50px;
+    text-align: left;
+}
+
+h2 {
+    padding: 15px;
+}
